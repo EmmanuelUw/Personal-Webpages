@@ -1,0 +1,40 @@
+{
+    "user" : {
+        "fullName": "Emmanuel Uwa",
+        "photo" : "ME.jpg"
+    },
+    "city" : {
+        "name" : "Minsk",
+        "photo" : "minsk.jpg",
+        "description" : "Minsk is a beautiful city located in eastern Europe"
+    },
+    "foreignLanguage" : {
+        "language" : "Russia",
+        "phrases" : [{
+            "englishPhrase" : "Russia",
+            "foreignLanguage" : "Россия"
+        },
+        {
+            "englishPhrase" : "I have lived in minsk for 7 years",
+            "foreignLanguage" : "Я жил в Минске 7 лет"
+        }]
+    },
+    "favouriteSubjects" : {
+        "Discipline": "Telecommunication",
+        "subject":[
+        {
+            "name" : "Digital Systems",
+            "description" : "Historical Systems and Telecommunication"
+        },
+        {
+            "name" : "Power Electronics",
+            "description" : " Types of Telecommunication power Systems"
+        },
+        {
+            "name" : "Control Systems",
+            "description" : " Telecommunication Control Systems"
+
+        }
+    ]
+}
+}
